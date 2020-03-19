@@ -131,7 +131,8 @@ export default {
       });
     this.$http.get('books/mostliked')
       .then((response) => {
-        this.mostLikedBooks = response.data.books;
+        const [books] = response.data.books;
+        this.mostLikedBooks = books;
         this.mostLikedLoading = false;
       })
       .catch(() => {
