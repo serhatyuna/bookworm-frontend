@@ -485,7 +485,6 @@ export default {
             }
 
             input[type=password], .eye-icon + input {
-              width: 280px;
               padding-right: 30px;
             }
           }
