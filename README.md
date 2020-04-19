@@ -1,7 +1,7 @@
 # bookworm-frontend
 
 ## Demo
-[https://bookwormapp.netlify.com/](https://bookwormapp.netlify.com/)
+[https://bookwormapp.netlify.app](https://bookwormapp.netlify.app)
 
 username: demo
 
