@@ -58,3 +58,5 @@ Authors:
 Admin Page:
 ![Admin Page](https://raw.githubusercontent.com/serhatyuna/bookworm-frontend/master/screenshots/admin-page.png "Admin Page")
 
+## LICENSE
+MIT License
